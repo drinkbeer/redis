@@ -32,6 +32,9 @@
 #include <sys/types.h>
 #include <sys/event.h>
 #include <sys/time.h>
+#include "ae.h"
+#include "zmalloc.h"
+#include <unistd.h> // for close
 
 typedef struct aeApiState {
     int kqfd;

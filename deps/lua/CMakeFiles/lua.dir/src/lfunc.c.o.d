@@ -1,0 +1,28 @@
+deps/lua/CMakeFiles/lua.dir/src/lfunc.c.o: \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/lfunc.c \
+  /Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include/stddef.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include/__stddef_max_align_t.h \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/lua.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include/stdarg.h \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/luaconf.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include/limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/cdefs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_symbol_aliasing.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_posix_availability.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/machine/limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/arm/limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/arm/_limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/syslimits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/math.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/Availability.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/AvailabilityVersions.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/AvailabilityInternal.h \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/lfunc.h \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/lobject.h \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/llimits.h \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/lgc.h \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/lmem.h \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/lstate.h \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/ltm.h \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/lzio.h

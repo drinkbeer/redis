@@ -1,0 +1,22 @@
+deps/lua/CMakeFiles/lua.dir/src/lopcodes.c.o: \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/lopcodes.c \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/lopcodes.h \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/llimits.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include/limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/cdefs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_symbol_aliasing.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_posix_availability.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/machine/limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/arm/limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/arm/_limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/syslimits.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include/stddef.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include/__stddef_max_align_t.h \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/lua.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include/stdarg.h \
+  /Users/jchome/src/github.com/drinkbeer/redis/deps/lua/src/luaconf.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/math.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/Availability.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/AvailabilityVersions.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/AvailabilityInternal.h
